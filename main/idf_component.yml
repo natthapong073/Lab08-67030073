@@ -1,9 +1,9 @@
 dependecies:
   LED_component:
-    git: https://github.com/natthapong073/Lab08-67030073.git
+    git: https://github.com/natthapong073/67030073_LED.git
 
   sensor_component:
-    git: https://github.com/Tanawatkub/Lab08-67030091.git
+    git: https://github.com/Tanawatkub/67030091_sensor.git
 
   display_component:
-    git: https://github.com/snowfake99/display.git
+    git: https://github.com/snowfake99/Lab08_67030043_display.git
