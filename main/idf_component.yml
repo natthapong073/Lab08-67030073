@@ -6,4 +6,4 @@ dependecies:
     git: https://github.com/Tanawatkub/Lab08-67030091.git
 
   display_component:
-    git: 
+    git: https://github.com/snowfake99/display.git
